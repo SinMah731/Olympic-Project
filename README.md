@@ -1,8 +1,7 @@
-About the Repository?
+## About the Repository?
 This is a Summer Olympics Assignment in which we were asked to solve some particular questions using Python codes and graphs. This repository contains one notebook file & one csv file. They are: Summer Olympics.ipynb & summer.csv
 
-A dedicated video for this repository (must watch) - https://www.linkedin.com/posts/i-am-abhisek-barik_elitetechnogroups-etg-python-activity-6843346716905893888-ETwI
-Questions are mentioned below:
+## Questions are mentioned below:
 There were total 8 Questions given us to solve by analysing the "summer.csv" file.
 
 In how many cities Summer Olympics is held so far ?
@@ -15,5 +14,5 @@ Which event is most popular in terms of number of players ? (Top 5)
 Which sport is having most female Gold Medalists ? (Top 5)
 Note: Wherever Top 5 is mentioned in questions, we were asked to plot bar graphs.
 
-About the Dataset?
+## About the Dataset?
 The dataset contains the datas of Summer Olympics from the year 1896 till 2012. These are the columns of the dataset: Year, City, Sport, Discipline, Athelete, Country, Gender, Event and Medal.
